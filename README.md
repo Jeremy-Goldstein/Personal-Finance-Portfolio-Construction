@@ -20,3 +20,4 @@ All cells that dynamically adjust to user input are locked, meaning a warning wi
 * Switch to the second sheet "Portfolio: Balance" and input the units owned of each security
 * Visit portfoliovisualizer.com using the Direct Analysis links to get detailed information about your current portfolio; note that any change to Tickers or Target Portfolio will automatically be reflected in these links
 * Toggle the checkboxes to view the balances in different accounts, using the Error in Balance column to understand how to rebalance 
+* Hover over several cells for more detailed explanation of equations used and current technical limitations  
